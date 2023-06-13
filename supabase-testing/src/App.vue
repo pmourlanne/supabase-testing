@@ -16,6 +16,6 @@ onMounted(() => {
 
 <template>
   <ul>
-    <li v-for="country in countries" :key="country.id">{{ country.name }}</li>
+    <li v-for="country in countries" :key="country.id">{{ country.name }}, {{ country.continent }}</li>
   </ul>
 </template>
