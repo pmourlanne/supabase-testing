@@ -1,7 +1,7 @@
 Testing supabase out :eyes:
 
 
-### What I did
+### Setup
 
 Following https://supabase.com/docs/guides/getting-started/quickstarts/vue
 
